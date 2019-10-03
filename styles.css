@@ -1,0 +1,27 @@
+p{
+    margin: 50px;25px;75px;20px;
+    border: 2px solid #4CAF50;   
+    padding: 20px;
+    font-family: "Libre Baskerville",sans-serif;
+  }
+h2.h2-class {
+    font-family: serif;
+    font-size: 30px;
+    font-weight: lighter;
+    color:#2e484c;
+    text-align: center;
+  }
+  
+  body{
+    background-color: rgba(138, 188, 159, 0.5);
+  } 
+     
+  
+  #image {
+    margin-left: 70px;
+  }
+  h1{
+      position: relative;
+      color:#033636;
+      text-transform:uppercase;
+  }
